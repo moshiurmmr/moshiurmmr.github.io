@@ -30,21 +30,9 @@ description: Moshiur Rahman is a Perception and Telematics Engineer
 <img src="assets/github_pic.jpg" height="250" width="250" />
 
 
+I am an autonomous vehicle and telematics engineer working for a major vehicle manufacturer in North America.
 
-A skilled engineer with specific focus on using data analytics and machine learning
-for gaining data-driven insight on 5G networks and applications, more specifically connected and autonomous vehicles.
-------------------------------------------------------
-Skills and Experience:
-- Vehicle telematics and in-vehicle infotainment systems architect;
-- Machine Learning, Deep Learning, Computer Vision;
-- Research on autonomous vehicle (self driving car) perception, e.g., object classification, tracking, semantic segmentation, sensor fusion.
-- Hands-on experience with Scikit-learn, Tensorflow, Keras, PyTorch, Numpy, Pandas, OpenCV. My personal projects on machine learning can be found in https://github.com/moshiurmmr;
-- Hands-on experience with cloud computing (OpenStack) and container (Docker, Kubernetes) technologies;
-- Strong programming skills in Python, C++;
-- 5G RAN, CN and OAM network architecture and standards;
-- Developed patents on 5G network management
-- Actively participated in 3GPP 5G SA5 standards meeting as a delegate
-- Building proof-of-concept projects in the area of cloud computing, Software Defined Networking (SDN) and IoT.
-- Experience with network simulators: Mininet, NS3, GNS3.
-- In-depth knowledge on TCP/IP, routing and switching protocols. Hands-on experience with routers, switches from different vendors.
-
+I have received my PhD in [Electrical Engineering](https://www.etsmtl.ca/ETS/Gouvernance/Decanats-et-departements/departement-genie-electrique) from [ETS, University of Quebec](https://www.etsmtl.ca/) in 2016. Prior to this I have received my Masters in 
+[Telecommunications Engineering](https://offertaformativa.unitn.it/en/lm/telecommunications-engineering) from 
+[University of Trento](https://www.unitn.it/en), Trento, Italy in 2011 and my 
+B.Sc. in Applied Physics Electronics and Communications Engineering from [University of Dhaka](https://www.du.ac.bd/home) in 2005.
