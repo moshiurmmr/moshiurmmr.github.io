@@ -10,6 +10,7 @@ description: Moshiur Rahman is a Perception and Telematics Engineer
 	<li><a href="https://github.com/moshiurmmr">GitHub</a></li>
 	<li><a href="https://www.linkedin.com/in/m-moshiur-rahman/">LinkedIn</a></li>
 	<li><a href="https://scholar.google.ca/citations?hl=en&user=DLBH9XYAAAAJ&view_op=list_works&gmla=AJsN-F6TgFN0OMsqYPt0Z6tIkJNGwo8xvuwCtpVuD8IIWGA90gRa7M6KsBEOmUFXfn12Dvhb59NuJPAYGNiCt_4bhD8DXpNifbFdAWcfUA4vozz7MyBAqh0">Publications</a></li>
+	<li><a href="assests/CV/Moshiur_Rahman.pdf">CV</a></li>
 	<li><a href="https://github.com/moshiurmmr/moshiur_site/tutorials">Tutorial</a></li>
 	<li><a href="https://github.com/moshiurmmr/moshiur_site/blog">Blog</a></li>
     </ul>
@@ -27,7 +28,7 @@ description: Moshiur Rahman is a Perception and Telematics Engineer
 <!--
 <a href="url"><img src="https://github.com/moshiurmmr/moshiur_site/github_pic.jpg" align="left" height="50" width="50"/></a>
 -->
-<img src="assets/github_pic.jpg" height="250" width="250" />
+<img src="assets/pic/github_pic.jpg" height="250" width="250" />
 
 
 I am an autonomous vehicle and telematics engineer working for a major vehicle manufacturer in North America.
