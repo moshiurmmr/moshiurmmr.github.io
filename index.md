@@ -42,3 +42,5 @@ At present, my primary work focuses on connected and autonomous vehicles. I am i
 in autonmous vehicle technology focusing on vehicle perception using computer vision (CV) and sensor fusion. 
 
 I am working on developing software solutions for [object tracking](https://github.com/moshiurmmr/Object_Tracking_Using_Extended_Kalman_Filter), [lane line detection](https://github.com/moshiurmmr/Lane_Line_Detection), [traffic sign classification](https://github.com/moshiurmmr/Traffic_Sign_Classification), sensor fusion using Kalman Filter.
+
+My updated CV can be found [here](assets/Moshiur_Rahman.pdf).
