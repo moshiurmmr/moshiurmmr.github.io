@@ -28,7 +28,7 @@ description: Moshiur Rahman is a Perception and Telematics Engineer
 <!--
 <a href="url"><img src="https://github.com/moshiurmmr/moshiur_site/github_pic.jpg" align="left" height="50" width="50"/></a>
 -->
-<img src="assets/pic/github_pic.jpg" height="250" width="250" />
+<img src="assets/github_pic.jpg" height="200" width="200" />
 
 
 I am an autonomous vehicle and telematics engineer working for a major vehicle manufacturer in North America.
