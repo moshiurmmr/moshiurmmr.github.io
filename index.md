@@ -30,7 +30,7 @@ description: Moshiur Rahman is a Perception and Telematics Engineer
 <img src="assets/github_pic.jpg" height="200" width="200" />
 
 
-I am a as a System Architect and Software Enginee working for a major vehicle manufacturer in North America.
+I am a System Architect and Software Engineer working for a major vehicle manufacturer in North America.
 
 I have received my PhD in [Electrical Engineering](https://www.etsmtl.ca/ETS/Gouvernance/Decanats-et-departements/departement-genie-electrique) from [ETS, University of Quebec](https://www.etsmtl.ca/) in 2016. Prior to this, I have received my Masters in 
 [Telecommunications Engineering](https://offertaformativa.unitn.it/en/lm/telecommunications-engineering) from 
@@ -42,6 +42,6 @@ At present, my primary work focuses on connected and autonomous vehicles. I do s
 connected vehicles solutions. I am also involved in research in autonmous vehicle technology focusing on vehicle perception 
 using computer vision (CV) and sensor fusion. 
 
-I am working on developing software solutions for [object tracking](https://github.com/moshiurmmr/Object_Tracking_Using_Extended_Kalman_Filter), [lane line detection](https://github.com/moshiurmmr/Lane_Line_Detection), [traffic sign classification](https://github.com/moshiurmmr/Traffic_Sign_Classification), sensor fusion using Kalman Filter.
+I am working on developing software solutions for [object tracking](https://github.com/moshiurmmr/Object_Tracking_Using_Extended_Kalman_Filter), [lane line detection](https://github.com/moshiurmmr/Lane_Line_Detection), [traffic sign classification](https://github.com/moshiurmmr/Traffic_Sign_Classification), and sensor fusion.
 
 My updated CV can be found [here](assets/Moshiur_Rahman.pdf).
