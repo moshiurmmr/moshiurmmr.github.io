@@ -39,7 +39,7 @@ B.Sc. in Applied Physics Electronics and Communications Engineering from [Univer
 
 I have extensive experience in telecommunications and automotive industries where I worked in research and product development. 
 At present, my primary work focuses on connected and autonomous vehicles. I do system architecture design for emerging 
-connected vehicles solutions. I am also involved in research in autonomous vehicle technology focusing on vehicle perception 
+connected vehicles solutions. I am also involved in research in autonomous vehicle technologies focusing on vehicle perception 
 using computer vision (CV) and sensor fusion. 
 
 I am working on developing software solutions for [object tracking](https://github.com/moshiurmmr/Object_Tracking_Using_Extended_Kalman_Filter), [lane line detection](https://github.com/moshiurmmr/Lane_Line_Detection), [traffic sign classification](https://github.com/moshiurmmr/Traffic_Sign_Classification), and sensor fusion.
