@@ -1,4 +1,4 @@
-## Moshiur Rahman&rsquo;s website
+## Moshiur Rahman's Website
 
 The structure of the website is inspired by the [blog](https://kbroman.org/simple_site/pages/user_site.html) by Karl Broman.
 
